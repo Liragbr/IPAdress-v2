@@ -23,7 +23,7 @@ async def main():
     """
 
     console.print(f"[bold blue]{banner}[/bold blue]")
-    console.rule("[bold blue]IP Geolocation - Python Edition[/bold blue]")
+    console.rule("[bold blue]IP Geolocation - by Lira[/bold blue]")
 
     ip = console.input("[bold yellow]Enter IP address:[/bold yellow] ").strip()
 
